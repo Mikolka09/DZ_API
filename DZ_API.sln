@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_API", "DZ_API\DZ_API.csproj", "{881A0FD8-9933-4A18-A1CC-DB937661D9B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation", "Calculation\Calculation.csproj", "{E3D41439-9617-4130-9294-846B3BA3C550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountStr", "CountStr\CountStr.csproj", "{660BB967-8BCE-4204-8898-081348FC8EB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{881A0FD8-9933-4A18-A1CC-DB937661D9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{881A0FD8-9933-4A18-A1CC-DB937661D9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{881A0FD8-9933-4A18-A1CC-DB937661D9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D41439-9617-4130-9294-846B3BA3C550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D41439-9617-4130-9294-846B3BA3C550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D41439-9617-4130-9294-846B3BA3C550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D41439-9617-4130-9294-846B3BA3C550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660BB967-8BCE-4204-8898-081348FC8EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660BB967-8BCE-4204-8898-081348FC8EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660BB967-8BCE-4204-8898-081348FC8EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660BB967-8BCE-4204-8898-081348FC8EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

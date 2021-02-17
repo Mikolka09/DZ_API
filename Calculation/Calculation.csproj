@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{881A0FD8-9933-4A18-A1CC-DB937661D9B8}</ProjectGuid>
+    <ProjectGuid>{E3D41439-9617-4130-9294-846B3BA3C550}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DZ_API</RootNamespace>
-    <AssemblyName>DZ_API</AssemblyName>
+    <RootNamespace>Calculation</RootNamespace>
+    <AssemblyName>Calculation</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DZ_1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

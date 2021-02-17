@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{881A0FD8-9933-4A18-A1CC-DB937661D9B8}</ProjectGuid>
+    <ProjectGuid>{660BB967-8BCE-4204-8898-081348FC8EB5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DZ_API</RootNamespace>
-    <AssemblyName>DZ_API</AssemblyName>
+    <RootNamespace>CountStr</RootNamespace>
+    <AssemblyName>CountStr</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DZ_1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
