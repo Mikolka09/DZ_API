@@ -41,6 +41,7 @@ namespace FindWord_DZ
                         Console.WriteLine($"Путь к файла: {item}");
                         Console.WriteLine($"Количество вхождений слова '{word}': {countWord}");
                     }
+                    sr.Close();
                 }
 
             }
