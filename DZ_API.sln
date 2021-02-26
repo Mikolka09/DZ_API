@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi_DZ", "Fibonachi_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWord_DZ", "FindWord_DZ\FindWord_DZ.csproj", "{BA04DCA2-ADA9-4683-B7CD-434F7AE63613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeCopy_DZ", "ThreeCopy_DZ\ThreeCopy_DZ.csproj", "{359EC140-BEBB-439D-9E03-5FAAFE656620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasinoRuletka_DZ", "KasinoRuletka_DZ\KasinoRuletka_DZ.csproj", "{39FB3D68-19C4-47F2-BA79-B8E78F970549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BA04DCA2-ADA9-4683-B7CD-434F7AE63613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA04DCA2-ADA9-4683-B7CD-434F7AE63613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA04DCA2-ADA9-4683-B7CD-434F7AE63613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359EC140-BEBB-439D-9E03-5FAAFE656620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359EC140-BEBB-439D-9E03-5FAAFE656620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359EC140-BEBB-439D-9E03-5FAAFE656620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359EC140-BEBB-439D-9E03-5FAAFE656620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FB3D68-19C4-47F2-BA79-B8E78F970549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FB3D68-19C4-47F2-BA79-B8E78F970549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FB3D68-19C4-47F2-BA79-B8E78F970549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FB3D68-19C4-47F2-BA79-B8E78F970549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
